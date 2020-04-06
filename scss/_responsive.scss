@@ -1,4 +1,4 @@
-@include media-md {
+@include media-md{
   .menu-btn {
     visibility: hidden;
   }
@@ -6,7 +6,7 @@
   .nav {
     visibility: visible;
 
-    .menu-nav {
+    .menu-btn {
       display: block;
       transform: translateY(0);
       height: 100%;

@@ -17,10 +17,10 @@
     align-items: center;
     justify-content: flex-end;
 
-    .text-secondary {
-      font-size: 2rem;
-      margin-bottom: 2rem;
-    }
+   .text-secondary {
+     font-size: 2rem;
+     margin-bottom: 2rem;
+   }
   }
 
   &__items {
@@ -62,9 +62,7 @@
         opacity: 1;
       }
     }
-  }
-
-  &__btns {
+  } &__btns {
     position: absolute;
     top: 0;
     height: 100%;
@@ -92,9 +90,8 @@
   }
 
   footer {
-    transform:
-      rotate(90deg)
+    transform: 
+      retate(90deg)
       translate(-3rem, -5rem);
   }
-  
 }
